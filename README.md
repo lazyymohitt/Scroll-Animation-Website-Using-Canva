@@ -34,4 +34,4 @@ Before you begin, ensure you have the following:
 1. **Clone the repository**:
    Open the terminal or command prompt and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/lazyymohitt/scroll-animation-project.git
+   git clone  https://github.com/lazyymohitt/Scroll-Animation-Website-Using-Canva.git
