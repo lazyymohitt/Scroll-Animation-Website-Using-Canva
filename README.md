@@ -1,4 +1,5 @@
-# Scroll Animation Project Using Canva
+# Scroll Animation Project Using GSAP
+
 
 ## Project Overview
 
